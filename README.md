@@ -1,5 +1,8 @@
 # Challenge382
 
+https://www.reddit.com/r/dailyprogrammer/comments/etf0al/20200124_challenge_382_hard_crossword_grids/
+
+
 Given the numbering of a crossword puzzle's clues, find its grid.
 Background
 
